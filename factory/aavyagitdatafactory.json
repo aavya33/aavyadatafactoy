@@ -1,0 +1,9 @@
+{
+	"name": "aavyagitdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "446112ac-0f4b-4187-962b-82fa1459e34f",
+		"tenantId": "a3b357b8-7105-4883-a20b-d423723feceb"
+	}
+}
